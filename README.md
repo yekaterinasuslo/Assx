@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+# THE MINISTRY OF VIRTUE
+As soon as our hero had returned to Paris and had come out of the study of the marquis de La Mole, who seemed very displeased with the despatches that were given him, he rushed off for the comte Altamira. This noble foreigner combined with the advantage of having once been condemned to death a very grave demeanour together with the good fortune of a devout temperament; these two qualities, and more than anything, the comte's high birth, made an especial appeal to madame de Fervaques who saw a lot of him.
 
-You can use the [editor on GitHub](https://github.com/yekaterinasuslo/Assx/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Julien solemnly confessed to him that he was very much in love with her.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"Her virtue is the purest and the highest," answered Altamira, "only it is a little Jesuitical and dogmatic.
 
-### Markdown
+"There are days when, though I understand each of the expressions which she makes use of, I never understand the whole sentence. She often makes me think that I do not know French as well as I am said to. But your acquaintance with her will get you talked about; it will give you weight in the world. But let us go to Bustos," said Count Altamira who had a methodical turn of mind; "he once paid court to madame la maréchale."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Don Diego Bustos had the matter explained to him at length, while he said nothing, like a barrister in his chambers. He had a big monk-like face with black moustaches and an inimitable gravity; he was, however, a good carbonaro.
+![o](https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2019/10/giant-panda-750x400.jpg)
+"I understand," he said to Julien at last. "Has the maréchale de Fervaques had lovers, or has she not? Have you consequently any hope of success? That is the question. I don't mind telling you, for my own part, that I have failed. Now that I am no more piqued I reason it out to myself in this way; she is often bad tempered, and as I will tell you in a minute, she is quite vindictive.
 
-```markdown
-Syntax highlighted code block
+"I fail to detect in her that bilious temperament which is the sign of genius, and shows as it were a veneer of passion over all its actions. On the contrary, she owes her rare beauty and her fresh complexion to the phlegmatic, tranquil character of the Dutch."
 
-# Header 1
-## Header 2
-### Header 3
+Julien began to lose patience with the phlegmatic slowness of the imperturbable Spaniard; he could not help giving vent to some monosyllables from time to time.
 
-- Bulleted
-- List
+"Will you listen to me?" Don Diego Bustos gravely said to him.
 
-1. Numbered
-2. List
+"Forgive the furia franchese; I am all ears," said Julien.
 
-**Bold** and _Italic_ and `Code` text
+"The maréchale de Fervaques then is a great hater; she persecutes ruthlessly people she has never seen—advocates, poor devils of men of letters who have composed songs like Collé, you know?
 
-[Link](url) and ![Image](src)
-```
+"J'ai la marotte
+D'aimer Marote, etc."
+And Julien had to put up with the whole quotation.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The Spaniard was very pleased to get a chance of singing in French.
 
-### Jekyll Themes
+That divine song was never listened to more impatiently. When it was finished Don Diego said—"The maréchale procured the dismissal of the author of the song:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yekaterinasuslo/Assx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"Un jour l'amour au cabaret."
+Julien shuddered lest he should want to sing it. He contented himself with analysing it. As a matter of fact, it was blasphemous and somewhat indecent.
 
-### Support or Contact
+"When the maréchale become enraged against that song," said Don Diego, "I remarked to her that a woman of her rank ought not to read all the stupid things that are published. Whatever progress piety and gravity may make France will always have a cabaret literature.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"'Be careful,' I said to madame de Fervaques when she had succeeded in depriving the author, a poor devil on half-pay, of a place worth eighteen hundred francs a year, 'you have attacked this rhymster with your own arms, he may answer you with his rhymes; he will make a song about virtue. The gilded salons will be on your side; but people who like to laugh will repeat his epigrams.' Do you know, monsieur, what the maréchale answered? 'Let all Paris come and see me walking to my martyrdom for the sake of the Lord. It will be a new spectacle for France. The people will learn to respect the quality. It will be the finest day of my life.' Her eyes never looked finer."
+
+"And she has superb ones," exclaimed Julien.
+
+"I see that you are in love. Further," went on Don Diego Bustos gravely, "she has not the bilious constitution which causes vindictiveness. If, however, she likes to do harm, it is because she is unhappy, I suspect some secret misfortune. May it not be quite well a case of prude tired of her rôle?"
+
+The Spaniard looked at him in silence for a good minute.
+
+"That's the whole point," he added gravely, "and that's what may give you ground for some hope. I have often reflected about it during the two years that I was her very humble servant. All your future, my amorous sir, depends on this great problem. Is she a prude tired of her rôle and only malicious because she is unhappy?"
+
+"Or," said Altamira emerging at last from his deep silence, "can it be as I have said twenty times before, simply a case of French vanity; the memory of her father, the celebrated cloth merchant, constitutes the unhappiness of this frigid melancholy nature. The only happiness she could find would be to live in Toledo and to be tortured by a confessor who would show her hell wide open every day."
+
+"Altamira informs me you are one of us," said Don Diego, whose demeanour was growing graver and graver to Julien as he went out. "You will help us one day in re-winning our liberty, so I would like to help you in this little amusement. It is right that you should know the maréchale's style; here are four letters in her hand-writing."
+
+"I will copy them out," exclaimed Julien, "and bring them back to you."
+
+"And you will never let anyone know a word of what we have been saying."
+
+"Never, on my honour," cried Julien.
+
+"Well, God help you," added the Spaniard, and he silently escorted Altamira and Julien as far as the staircase.
+
+This somewhat amused our hero; he was on the point of smiling. "So we have the devout Altamira," he said to himself, "aiding me in an adulterous enterprise."
+
+During Don Diego's solemn conversation Julien had been attentive to the hours struck by the clock of the Hôtel d'Aligre.
+
+The dinner hour was drawing near, he was going to see Mathilde again. He went in and dressed with much care.
+
+"Mistake No. 1," he said to himself as he descended the staircase: "I must follow the prince's instructions to the letter."
+
+He went up to his room again and put on a travelling suit which was as simple as it could be. "All I have to do now," he thought, "is to keep control of my expression." It was only half-past five and they dined at six. He thought of going down to the salon which he found deserted. He was moved to the point of tears at the sight of the blue sofa. "I must make an end of this foolish sensitiveness," he said angrily, "it will betray me." He took up a paper in order to keep himself in countenance and passed three or four times from the salon into the garden.
+
+It was only when he was well concealed by a large oak and was trembling all over, that he ventured to raise his eyes at mademoiselle de la Mole's window. It was hermetically sealed; he was on the point of fainting and remained for a long time leaning against the oak; then with a staggering step he went to have another look at the gardener's ladder.
+
+The chain which he had once forced asunder—in, alas, such different circumstances—had not yet been repaired. Carried away by a moment of madness, Julien pressed it to his lips.
+
+After having wandered about for a long time between the salon and the garden, Julien felt horribly tired; he was now feeling acutely the effects of a first success. My eyes will be expressionless and will not betray me! The guests gradually arrived in the salon; the door never opened without instilling anxiety into Julien's heart.
+
+They sat down at table. Mademoiselle de la Mole, always faithful to her habit of keeping people waiting, eventually appeared. She blushed a great deal on seeing Julien, she had not been told of his arrival. In accordance with Prince Korasoff's recommendation, Julien looked at his hands. They were trembling. Troubled though he was beyond words by this discovery, he was sufficiently happy to look merely tired.
+
+M. de la Mole sang his praises. The marquise spoke to him a minute afterwards and complimented him on his tired appearance. Julien said to himself at every minute, "I ought not to look too much at mademoiselle de la Mole, I ought not to avoid looking at her too much either. I must appear as I was eight days before my unhappiness——" He had occasion to be satisfied with his success and remained in the salon. Paying attention for the first time to the mistress of the house, he made every effort to make the visitors speak and to keep the conversation alive.
